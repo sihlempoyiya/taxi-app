@@ -1,0 +1,14 @@
+body{ background:#f5f5f7; font-family: sans-serif; }
+.main-container{ max-width:500px; }
+.fare-card{ background:#fff; border-radius:12px; }
+.fare-input{ max-width:100px; font-weight:bold; text-align:center; }
+.summary-box{ border-radius:12px; padding:10px; text-align:center; }
+.summary-box small{ font-size:10px; text-transform:uppercase; display:block; }
+.summary-box h5{ margin:0; font-weight:800; }
+.box-collected{ background:#111; color:white; }
+.box-owe{ background:#ffbe0b; color:#111; }
+.box-people{ background:#e9ecef; color:#111; border:1px solid #ddd; }
+.card{ border:none; border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.05); }
+.payment-item{ background:white; border-radius:12px; padding:12px; margin-bottom:10px; display:flex; justify-content:space-between; align-items:center; border-left:5px solid #111; }
+.payment-item.done{ opacity:0.6; border-left-color:#198754; }
+.change-badge{ background:#ffbe0b; color:black; font-weight:bold; padding:2px 8px; border-radius:20px; font-size:12px; }
